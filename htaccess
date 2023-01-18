@@ -1,0 +1,3 @@
+Redirect 301 /welcome.php /index.php
+Redirect /error.php /index.php
+ErrorDocument 404 /error.php
